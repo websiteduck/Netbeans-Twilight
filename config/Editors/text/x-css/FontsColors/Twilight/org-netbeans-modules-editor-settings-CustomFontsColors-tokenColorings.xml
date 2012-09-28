@@ -6,7 +6,7 @@
     </fontcolor>
     <fontcolor default="number" name="hashes"/>
     <fontcolor default="keyword" name="keywords"/>
-    <fontcolor foreColor="ff007c00" name="mod-method">
+    <fontcolor foreColor="ffcda869" name="mod-method">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="default" name="others"/>
@@ -21,9 +21,9 @@
     </fontcolor>
     <fontcolor bgColor="ffeceba3" name="mark-occurrences"/>
     <fontcolor default="number" name="numbers"/>
-    <fontcolor foreColor="blue" name="mod-custom1"/>
+    <fontcolor foreColor="ff7587a6" name="mod-custom1"/>
     <fontcolor default="operator" name="operators"/>
-    <fontcolor foreColor="blue" name="mod-custom2">
+    <fontcolor foreColor="ffcda869" name="mod-custom2">
         <font style="italic"/>
     </fontcolor>
     <fontcolor default="comment" name="comments"/>

@@ -11,7 +11,7 @@
     <fontcolor name="url" underline="blue"/>
     <fontcolor default="identifier" foreColor="ff009900" name="field"/>
     <fontcolor bgColor="ff141414" foreColor="white" name="default">
-        <font name="Droid Sans Mono" size="14"/>
+        <font name="Droid Sans Mono" size="12"/>
     </fontcolor>
     <fontcolor foreColor="ff8f9d6a" name="string"/>
     <fontcolor default="string" name="markup-attribute-value"/>
