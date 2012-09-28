@@ -13,3 +13,5 @@ To Install:
 - Click the Import button at the bottom
 - Select the folder you extracted
 - Select the All checkbox and click OK, Netbeans will restart
+
+![screenshot](https://github.com/websiteduck/Netbeans-Twilight/raw/master/screenshot.png)
