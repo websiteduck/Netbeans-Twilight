@@ -23,7 +23,7 @@
     <fontcolor default="number" name="numbers"/>
     <fontcolor foreColor="ff7587a6" name="mod-custom1"/>
     <fontcolor default="operator" name="operators"/>
-    <fontcolor foreColor="ffcda869" name="mod-custom2">
+    <fontcolor foreColor="ff7587a6" name="mod-custom2">
         <font style="italic"/>
     </fontcolor>
     <fontcolor default="comment" name="comments"/>
